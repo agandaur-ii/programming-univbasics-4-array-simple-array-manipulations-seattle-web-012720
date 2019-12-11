@@ -1,5 +1,5 @@
 do using_push(array, string)
-  p array.push(string)
+  array.push(string)
 end
 
 =begin
